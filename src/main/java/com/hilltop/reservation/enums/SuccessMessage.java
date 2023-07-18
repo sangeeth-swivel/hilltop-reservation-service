@@ -1,4 +1,4 @@
-package com.hilltop.user.enums;
+package com.hilltop.reservation.enums;
 
 import lombok.Getter;
 
@@ -8,9 +8,7 @@ import lombok.Getter;
 @Getter
 public enum SuccessMessage {
 
-    SUCCESSFULLY_ADDED("Successfully added."),
-    SUCCESSFULLY_LOGGED_IN("Successfully logged in."),
-    VALID_TOKEN("Valid token");
+    SUCCESSFULLY_ADDED("Successfully added.");
 
     private final String message;
 
