@@ -2,10 +2,11 @@
 
 ## Hosted in
 
-* 
+* http://hilltop-reservation-service.eu-north-1.elasticbeanstalk.com
+
 ## Sonar cloud analysis
 
-* 
+* https://sonarcloud.io/project/overview?id=sangeeth-swivel_hilltop-reservation-service
 
 ## Postman collection
 
